@@ -11,4 +11,4 @@
 8. Clic derecho y vamos a "git", luego a "commit file" y procedemos a nombrar el commit.
 9. En mi caso le pondré "repor_metodo2" y seleccionamos tanto el directorio como el readme.
 10. Luego de ello, hacemos un push, dirigiéndonos a la parte superior isquierda en "main" y hacemos clic en "push" para que pueda estar subito en el Github.
-11. Una vez allí le daamos a okey y listoooooo. 
+11. Una vez allí le daamos a okey y listoooo. 
